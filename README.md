@@ -1,0 +1,2 @@
+# tododjango
+Djangでtodolistを作ってみる
